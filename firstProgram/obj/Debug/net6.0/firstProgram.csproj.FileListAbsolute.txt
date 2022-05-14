@@ -1,0 +1,15 @@
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/firstProgram
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/firstProgram.deps.json
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/firstProgram.runtimeconfig.json
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/firstProgram.dll
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/ref/firstProgram.dll
+/home/arpangreat/csharp-examples/firstProgram/bin/Debug/net6.0/firstProgram.pdb
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.csproj.AssemblyReference.cache
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.AssemblyInfoInputs.cache
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.AssemblyInfo.cs
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.csproj.CoreCompileInputs.cache
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.dll
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/ref/firstProgram.dll
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.pdb
+/home/arpangreat/csharp-examples/firstProgram/obj/Debug/net6.0/firstProgram.genruntimeconfig.cache
