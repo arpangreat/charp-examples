@@ -1,0 +1,15 @@
+/home/arpangreat/csharp-examples/second/bin/Debug/net7.0/second
+/home/arpangreat/csharp-examples/second/bin/Debug/net7.0/second.deps.json
+/home/arpangreat/csharp-examples/second/bin/Debug/net7.0/second.runtimeconfig.json
+/home/arpangreat/csharp-examples/second/bin/Debug/net7.0/second.dll
+/home/arpangreat/csharp-examples/second/bin/Debug/net7.0/second.pdb
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.csproj.AssemblyReference.cache
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.GeneratedMSBuildEditorConfig.editorconfig
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.AssemblyInfoInputs.cache
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.AssemblyInfo.cs
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.csproj.CoreCompileInputs.cache
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.dll
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/refint/second.dll
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.pdb
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/second.genruntimeconfig.cache
+/home/arpangreat/csharp-examples/second/obj/Debug/net7.0/ref/second.dll

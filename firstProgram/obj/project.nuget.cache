@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HEEOrKxfKDlwG61IVMTd7DG4nW+BsANJLTiRsFLVjaZiYsA6KHwwlbag67NbOt8nw7qcBxOUvT/7jYsA8GbrXA==",
+  "dgSpecHash": "hyGInNJ97WgSbV1FgVCc+6uBxdyrTqddTND2leCYjXfbGkIR9v/jiM9vdMUax7RGXwEyJkr9WtA2AeEz8Q/hvA==",
   "success": true,
   "projectFilePath": "/home/arpangreat/csharp-examples/firstProgram/firstProgram.csproj",
   "expectedPackageFiles": [
-    "/home/arpangreat/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/arpangreat/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/arpangreat/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/arpangreat/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfZaRBRPHzarysxP5BsvANar8gu04/V5TFuYEMVvKKOKhHpch2IEc0wtknkNv6g66I4McPn7gTwL5AM2Q0dMpA==",
+  "success": true,
+  "projectFilePath": "/home/arpangreat/csharp-examples/second/second.csproj",
+  "expectedPackageFiles": [
+    "/home/arpangreat/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
